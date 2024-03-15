@@ -1,2 +1,2 @@
 # git215_setup
- GIT215 setup project
+## Author: Ed Miller
